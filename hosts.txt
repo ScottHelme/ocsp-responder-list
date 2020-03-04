@@ -208,7 +208,6 @@
 127.0.0.1 hc.symcd.com
 127.0.0.1 hd.symcd.com
 127.0.0.1 hhspkiocsp.managed.entrust.com
-127.0.0.1 hhtp
 127.0.0.1 h.ocsp-certum.com
 127.0.0.1 hostpoint-ocsp.digitalcertvalidation.com
 127.0.0.1 hpe-ocsp.symauth.com
@@ -242,7 +241,6 @@
 127.0.0.1 kingnettechov.ocsp-certum.com
 127.0.0.1 kr.ocsp.digicert.com
 127.0.0.1 kvalid.keynectis.com
-127.0.0.1 ldap
 127.0.0.1 lh.ocsp-certum.com
 127.0.0.1 ltgroot.ocsp.luxtrust.lu
 127.0.0.1 mh2.ocsp.secomtrust.net
@@ -1006,8 +1004,6 @@
 127.0.0.1 twcasslocsp.twca.com.tw
 127.0.0.1 uniper-group-ca-2-2015.ocsp.d-trust.net
 127.0.0.1 ura.procert.net.ve
-127.0.0.1 uri=http
-127.0.0.1 url=http
 127.0.0.1 users.ocsp.d-trust.net
 127.0.0.1 uw.ocsp.quovadisglobal.com
 127.0.0.1 va.actalis.it
